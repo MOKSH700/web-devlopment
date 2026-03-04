@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>
+        moksh pizza club
+     
+        <h2>Join meeting</h2>
+        <a href="https://meet.google.com/aza-zqve-aff">join the meeting</a>
+
+        <h2>Book details</h2>
+        <table border="5">
+          <tr>
+            <th>pizza name name</th>
+            <th>chef</th>
+            <th>rating</th>
+          </tr>
+          <tr>
+            <td>chicken pizza</td>
+            <td>ED LA DOU</td>
+            <td>⭐⭐⭐⭐⭐</td>
+            <td><img src="piia.jpg"></td>
+          </tr>
+          <tr>
+            <td>special pizza</td>
+            <td>TOM AND JAMES</td>
+            <td>⭐⭐⭐⭐</td>
+            <td><img src="pizza1.webp"></td>
+          </tr>
+
+
+        </table>
+        <h2>book realated videos</h2>
+        <iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/S8rx98tXEJw?si=UIvphPwxFarYi58L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/X_TG05l6hBA?si=5k2BJrAbidO09A2Q"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <audio controls autoplay>
+              <source src="YouTube Music_files/"> 
+            </audio>
+        <h2>contact us mokshagna</h2>
+        <mark>phone number-9912584594</mark>
+    </body>
