@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flex box</title>
+    <style>
+        .container{
+            width:400px;
+            display:flex;
+            justify-content:space-around;
+            align-items: flex-start;
+            background-color:yellow;
+        }
+        .container div{
+            display:flex;
+            background-color:red;
+            width:100px;
+            height: 50px;
+            margin:3px;
+            flex-grow:5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        
+    </div>
+</body>
+</html>
